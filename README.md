@@ -42,7 +42,7 @@ _(Add screenshots or GIFs here if needed)_
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/real-estate-app.git
+git clone https://github.com/LakshanMadushnka/Real_Estate.git
 cd real-estate-app
 
 
