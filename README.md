@@ -33,7 +33,6 @@ A responsive, full-stack real estate listing platform built with **Next.js**, **
 > Listing upload form with image uploader   ![Image](https://github.com/user-attachments/assets/cfd1276d-c372-438a-9a5d-79de62abe0ec)
 > Listing detail page with full description and location on map ![Image](https://github.com/user-attachments/assets/2998faae-99ad-4c33-9c79-9804d5b38186)
 
-_(Add screenshots or GIFs here if needed)_
 
 ---
 
